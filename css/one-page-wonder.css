@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: gray url("../path.jpg") no-repeat center center scroll;
+    background: gray url("../rocks.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -49,6 +49,7 @@ body {
 
 .featurette-image.pull-right {
     margin-left: 40px;
+    height: 250px;
 }
 
 .featurette-heading {
