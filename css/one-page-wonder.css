@@ -50,6 +50,7 @@ body {
 .featurette-image.pull-right {
     margin-left: 40px;
     height: 250px;
+    width: 175px;
 }
 
 .featurette-heading {
